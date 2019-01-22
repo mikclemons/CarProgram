@@ -30,4 +30,12 @@ public class Car {
     public String getModel(){
         return model;
     }
+
+    public void setYear(int carYear){
+        year = carYear;
+    }
+
+    public int getYear(){
+        return year; 
+    }
 }
