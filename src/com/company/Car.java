@@ -36,6 +36,6 @@ public class Car {
     }
 
     public int getYear(){
-        return year; 
+        return year;
     }
 }
