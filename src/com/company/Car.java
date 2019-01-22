@@ -22,4 +22,12 @@ public class Car {
     public String getMake(){
         return make;
     }
+
+    public void setModel(String carModel){
+        model = carModel;
+    }
+
+    public String getModel(){
+        return model;
+    }
 }
