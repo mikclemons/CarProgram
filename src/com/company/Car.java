@@ -14,4 +14,12 @@ public class Car {
     public String getColor(){
         return color;
     }
+
+    public void setMake(String carMake){
+        make = carMake;
+    }
+
+    public String getMake(){
+        return make;
+    }
 }
